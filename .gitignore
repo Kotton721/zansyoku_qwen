@@ -1,0 +1,12 @@
+# dataset ディレクトリ丸ごと無視
+dataset/
+datasets/
+# dataset の中身をすべて無視（念のため）
+dataset/**
+datasets/**
+# result が名前に含まれるディレクトリをすべて無視
+**/result*/
+**/results*/
+
+# result で始まる or 含むフォルダを包括的に無視
+**/*result*/

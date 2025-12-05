@@ -1,0 +1,29 @@
+# =====================================================
+# PyTorch Nightly (CUDA 12.8, Blackwell対応)
+# =====================================================
+--pre
+--index-url https://download.pytorch.org/whl/nightly/cu128
+--extra-index-url https://pypi.org/simple
+
+torch
+torchvision
+torchaudio
+
+# =====================================================
+# 画像処理・可視化ライブラリ
+# =====================================================
+opencv-python-headless>=4.9,<4.11     # GUI不要の軽量版
+timm>=0.9.12                          # 最新transformerモデル群
+numpy>=1.26,<3                        # PyTorch 2.xと相性良好
+matplotlib>=3.7                       # 可視化用
+
+# =====================================================
+# 学習補助・特徴量学習など
+# =====================================================
+pytorch-metric-learning               # メトリック学習
+git+https://github.com/openai/CLIP.git
+git+https://github.com/huggingface/transformers.git
+git+https://github.com/huggingface/accelerate.git
+
+
+

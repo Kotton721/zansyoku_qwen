@@ -1,0 +1,312 @@
+{"image": "/home/user/qwen/datasets/indi_image/images/after/img10_230421_18_after.jpg", "remaining": ["egg", "processed_fish", "processed_meat", "processed_fruit"], "raw": "```json\n{\n  \"remaining\": [\"egg\", \"processed_fish\", \"processed_meat\", \"processed_fruit\"]\n}\n```"}
+{"image": "/home/user/qwen/datasets/indi_image/images/after/img10_230421_18_after__1.jpg", "remaining": ["leafy_vegetable"], "raw": "```json\n{\n  \"remaining\": [\"leafy_vegetable\"]\n}\n```"}
+{"image": "/home/user/qwen/datasets/indi_image/images/after/img10_230421_18_after__2.jpg", "remaining": ["leafy_vegetable", "fruit_vegetable", "root_vegetable"], "raw": "```json\n{\n  \"remaining\": [\"leafy_vegetable\", \"fruit_vegetable\", \"root_vegetable\"]\n}\n```"}
+{"image": "/home/user/qwen/datasets/indi_image/images/after/img10_230421_18_after__3.jpg", "remaining": ["fruit"], "raw": "```json\n{\n  \"remaining\": [\"fruit\"]\n}\n```"}
+{"image": "/home/user/qwen/datasets/indi_image/images/after/img11_230421_20_after.jpg", "remaining": ["processed_fish"], "raw": "```json\n{\n  \"remaining\": [\"processed_fish\"]\n}\n```"}
+{"image": "/home/user/qwen/datasets/indi_image/images/after/img11_230421_20_after__1.jpg", "remaining": ["dairy"], "raw": "```json\n{\n  \"remaining\": [\"dairy\"]\n}\n```"}
+{"image": "/home/user/qwen/datasets/indi_image/images/after/img11_230421_20_after__2.jpg", "remaining": ["noodle", "seaweed", "processed_fish", "processed_fruit"], "raw": "```json\n{\n  \"remaining\": [\"noodle\", \"seaweed\", \"processed_fish\", \"processed_fruit\"]\n}\n```"}
+{"image": "/home/user/qwen/datasets/indi_image/images/after/img11_230421_20_after__3.jpg", "remaining": ["fruit_vegetable", "root_vegetable"], "raw": "```json\n{\n  \"remaining\": [\"fruit_vegetable\", \"root_vegetable\"]\n}\n```"}
+{"image": "/home/user/qwen/datasets/indi_image/images/after/img12_230421_22_after.jpg", "remaining": ["fish", "fruit_vegetable"], "raw": "```json\n{\n  \"remaining\": [\"fish\", \"fruit_vegetable\"]\n}\n```"}
+{"image": "/home/user/qwen/datasets/indi_image/images/after/img12_230421_22_after__1.jpg", "remaining": [], "raw": "```json\n{\n  \"remaining\": []\n}\n```"}
+{"image": "/home/user/qwen/datasets/indi_image/images/after/img12_230421_22_after__2.jpg", "remaining": ["seaweed"], "raw": "```json\n{\n  \"remaining\": [\"seaweed\"]\n}\n```"}
+{"image": "/home/user/qwen/datasets/indi_image/images/after/img12_230421_22_after__3.jpg", "remaining": ["grain"], "raw": "```json\n{\n  \"remaining\": [\"grain\"]\n}\n```"}
+{"image": "/home/user/qwen/datasets/indi_image/images/after/img13_230421_24_after.jpg", "remaining": ["dairy"], "raw": "```json\n{\n  \"remaining\": [\"dairy\"]\n}\n```"}
+{"image": "/home/user/qwen/datasets/indi_image/images/after/img13_230421_24_after__1.jpg", "remaining": ["fish", "mushroom", "leafy_vegetable"], "raw": "```json\n{\n  \"remaining\": [\"fish\", \"mushroom\", \"leafy_vegetable\"]\n}\n```"}
+{"image": "/home/user/qwen/datasets/indi_image/images/after/img13_230421_24_after__2.jpg", "remaining": ["leafy_vegetable"], "raw": "```json\n{\n  \"remaining\": [\"leafy_vegetable\"]\n}\n```"}
+{"image": "/home/user/qwen/datasets/indi_image/images/after/img13_230421_24_after__3.jpg", "remaining": ["fruit_vegetable"], "raw": "```json\n{\n  \"remaining\": [\"fruit_vegetable\"]\n}\n```"}
+{"image": "/home/user/qwen/datasets/indi_image/images/after/img14_230421_26_after.jpg", "remaining": ["fruit_vegetable", "root_vegetable", "pulses"], "raw": "```json\n{\n  \"remaining\": [\"fruit_vegetable\", \"root_vegetable\", \"pulses\"]\n}\n```"}
+{"image": "/home/user/qwen/datasets/indi_image/images/after/img14_230421_26_after__1.jpg", "remaining": ["grain"], "raw": "```json\n{\n  \"remaining\": [\"grain\"]\n}\n```"}
+{"image": "/home/user/qwen/datasets/indi_image/images/after/img14_230421_26_after__2.jpg", "remaining": ["fruit_vegetable"], "raw": "```json\n{\n  \"remaining\": [\"fruit_vegetable\"]\n}\n```"}
+{"image": "/home/user/qwen/datasets/indi_image/images/after/img14_230421_26_after__3.jpg", "remaining": ["fruit_vegetable", "processed_fruit"], "raw": "```json\n{\n  \"remaining\": [\"fruit_vegetable\", \"processed_fruit\"]\n}\n```"}
+{"image": "/home/user/qwen/datasets/indi_image/images/after/img15_230421_28_after.jpg", "remaining": ["noodle", "fruit_vegetable", "processed_fish", "processed_fruit"], "raw": "```json\n{\n  \"remaining\": [\"noodle\", \"fruit_vegetable\", \"processed_fish\", \"processed_fruit\"]\n}\n```"}
+{"image": "/home/user/qwen/datasets/indi_image/images/after/img15_230421_28_after__1.jpg", "remaining": [], "raw": "```json\n{\n  \"remaining\": []\n}\n```"}
+{"image": "/home/user/qwen/datasets/indi_image/images/after/img15_230421_28_after__2.jpg", "remaining": ["noodle", "fruit_vegetable", "processed_meat"], "raw": "```json\n{\n  \"remaining\": [\"noodle\", \"fruit_vegetable\", \"processed_meat\"]\n}\n```"}
+{"image": "/home/user/qwen/datasets/indi_image/images/after/img15_230421_28_after__3.jpg", "remaining": ["egg"], "raw": "```json\n{\n  \"remaining\": [\"egg\"]\n}\n```"}
+{"image": "/home/user/qwen/datasets/indi_image/images/after/img16_230421_30_after.jpg", "remaining": ["fish", "mushroom", "root_vegetable"], "raw": "```json\n{\n  \"remaining\": [\"fish\", \"mushroom\", \"root_vegetable\"]\n}\n```"}
+{"image": "/home/user/qwen/datasets/indi_image/images/after/img16_230421_30_after__1.jpg", "remaining": ["egg"], "raw": "```json\n{\n  \"remaining\": [\"egg\"]\n}\n```"}
+{"image": "/home/user/qwen/datasets/indi_image/images/after/img16_230421_30_after__2.jpg", "remaining": ["noodle", "processed_fish"], "raw": "```json\n{\n  \"remaining\": [\"noodle\", \"processed_fish\"]\n}\n```"}
+{"image": "/home/user/qwen/datasets/indi_image/images/after/img16_230421_30_after__3.jpg", "remaining": ["grain"], "raw": "```json\n{\n  \"remaining\": [\"grain\"]\n}\n```"}
+{"image": "/home/user/qwen/datasets/indi_image/images/after/img17_230421_32_after.jpg", "remaining": ["fruit"], "raw": "```json\n{\n  \"remaining\": [\"fruit\"]\n}\n```"}
+{"image": "/home/user/qwen/datasets/indi_image/images/after/img17_230421_32_after__1.jpg", "remaining": ["grain"], "raw": "```json\n{\n  \"remaining\": [\"grain\"]\n}\n```"}
+{"image": "/home/user/qwen/datasets/indi_image/images/after/img17_230421_32_after__2.jpg", "remaining": ["root_vegetable", "stem_vegetable", "processed_fish"], "raw": "```json\n{\n  \"remaining\": [\"root_vegetable\", \"stem_vegetable\", \"processed_fish\"]\n}\n```"}
+{"image": "/home/user/qwen/datasets/indi_image/images/after/img17_230421_32_after__3.jpg", "remaining": [], "raw": "```json\n{\n  \"remaining\": []\n}\n```"}
+{"image": "/home/user/qwen/datasets/indi_image/images/after/img17_230421_32_after__4.jpg", "remaining": ["noodle", "leafy_vegetable", "processed_fish", "processed_vegetable"], "raw": "```json\n{\n  \"remaining\": [\"noodle\", \"leafy_vegetable\", \"processed_fish\", \"processed_vegetable\"]\n}\n```"}
+{"image": "/home/user/qwen/datasets/indi_image/images/after/img18_230421_34_after.jpg", "remaining": ["leafy_vegetable", "processed_vegetable"], "raw": "```json\n{\n  \"remaining\": [\"leafy_vegetable\", \"processed_vegetable\"]\n}\n```"}
+{"image": "/home/user/qwen/datasets/indi_image/images/after/img18_230421_34_after__1.jpg", "remaining": ["grain"], "raw": "```json\n{\n  \"remaining\": [\"grain\"]\n}\n```"}
+{"image": "/home/user/qwen/datasets/indi_image/images/after/img18_230421_34_after__2.jpg", "remaining": ["fruit_vegetable"], "raw": "```json\n{\n  \"remaining\": [\"fruit_vegetable\"]\n}\n```"}
+{"image": "/home/user/qwen/datasets/indi_image/images/after/img18_230421_34_after__3.jpg", "remaining": ["fruit_vegetable", "processed_vegetable"], "raw": "```json\n{\n  \"remaining\": [\"fruit_vegetable\", \"processed_vegetable\"]\n}\n```"}
+{"image": "/home/user/qwen/datasets/indi_image/images/after/img18_230421_34_after__4.jpg", "remaining": [], "raw": "```json\n{\n  \"remaining\": []\n}\n```"}
+{"image": "/home/user/qwen/datasets/indi_image/images/after/img19_230421_36_after.jpg", "remaining": ["egg"], "raw": "```json\n{\n  \"remaining\": [\"egg\"]\n}\n```"}
+{"image": "/home/user/qwen/datasets/indi_image/images/after/img19_230421_36_after__1.jpg", "remaining": [], "raw": "```json\n{\n  \"remaining\": []\n}\n```"}
+{"image": "/home/user/qwen/datasets/indi_image/images/after/img19_230421_36_after__2.jpg", "remaining": [], "raw": "```json\n{\n  \"remaining\": []\n}\n```"}
+{"image": "/home/user/qwen/datasets/indi_image/images/after/img19_230421_36_after__3.jpg", "remaining": ["noodle", "leafy_vegetable"], "raw": "```json\n{\n  \"remaining\": [\"noodle\", \"leafy_vegetable\"]\n}\n```"}
+{"image": "/home/user/qwen/datasets/indi_image/images/after/img19_230421_36_after__4.jpg", "remaining": ["dairy"], "raw": "```json\n{\n  \"remaining\": [\"dairy\"]\n}\n```"}
+{"image": "/home/user/qwen/datasets/indi_image/images/after/img1_230421_0_after.jpg", "remaining": [], "raw": "```json\n{\n  \"remaining\": []\n}\n```"}
+{"image": "/home/user/qwen/datasets/indi_image/images/after/img1_230421_0_after__1.jpg", "remaining": ["egg"], "raw": "```json\n{\n  \"remaining\": [\"egg\"]\n}\n```"}
+{"image": "/home/user/qwen/datasets/indi_image/images/after/img1_230421_0_after__2.jpg", "remaining": ["meat", "noodle", "root_vegetable", "stem_vegetable"], "raw": "```json\n{\n  \"remaining\": [\"meat\", \"noodle\", \"root_vegetable\", \"stem_vegetable\"]\n}\n```"}
+{"image": "/home/user/qwen/datasets/indi_image/images/after/img1_230421_0_after__3.jpg", "remaining": ["grain"], "raw": "```json\n{\n  \"remaining\": [\"grain\"]\n}\n```"}
+{"image": "/home/user/qwen/datasets/indi_image/images/after/img20_230421_38_after.jpg", "remaining": ["noodle"], "raw": "```json\n{\n  \"remaining\": [\"noodle\"]\n}\n```"}
+{"image": "/home/user/qwen/datasets/indi_image/images/after/img20_230421_38_after__1.jpg", "remaining": ["grain"], "raw": "```json\n{\n  \"remaining\": [\"grain\"]\n}\n```"}
+{"image": "/home/user/qwen/datasets/indi_image/images/after/img20_230421_38_after__2.jpg", "remaining": ["fish", "root_vegetable", "processed_vegetable"], "raw": "```json\n{\n  \"remaining\": [\"fish\", \"root_vegetable\", \"processed_vegetable\"]\n}\n```"}
+{"image": "/home/user/qwen/datasets/indi_image/images/after/img20_230421_38_after__3.jpg", "remaining": ["processed_vegetable", "soy"], "raw": "```json\n{\n  \"remaining\": [\"processed_vegetable\", \"soy\"]\n}\n```"}
+{"image": "/home/user/qwen/datasets/indi_image/images/after/img21_230421_40_after.jpg", "remaining": ["grain"], "raw": "```json\n{\n  \"remaining\": [\"grain\"]\n}\n```"}
+{"image": "/home/user/qwen/datasets/indi_image/images/after/img21_230421_40_after__1.jpg", "remaining": [], "raw": "```json\n{\n  \"remaining\": []\n}\n```"}
+{"image": "/home/user/qwen/datasets/indi_image/images/after/img21_230421_40_after__2.jpg", "remaining": ["fish", "dairy"], "raw": "```json\n{\n  \"remaining\": [\"fish\", \"dairy\"]\n}\n```"}
+{"image": "/home/user/qwen/datasets/indi_image/images/after/img21_230421_40_after__3.jpg", "remaining": [], "raw": "```json\n{\n  \"remaining\": []\n}\n```"}
+{"image": "/home/user/qwen/datasets/indi_image/images/after/img21_230421_40_after__4.jpg", "remaining": ["stem_vegetable"], "raw": "```json\n{\n  \"remaining\": [\"stem_vegetable\"]\n}\n```"}
+{"image": "/home/user/qwen/datasets/indi_image/images/after/img22_230421_42_after.jpg", "remaining": ["leafy_vegetable", "potato"], "raw": "```json\n{\n  \"remaining\": [\"leafy_vegetable\", \"potato\"]\n}\n```"}
+{"image": "/home/user/qwen/datasets/indi_image/images/after/img22_230421_42_after__1.jpg", "remaining": ["processed_fruit"], "raw": "```json\n{\n  \"remaining\": [\"processed_fruit\"]\n}\n```"}
+{"image": "/home/user/qwen/datasets/indi_image/images/after/img22_230421_42_after__2.jpg", "remaining": ["fish", "mushroom", "leafy_vegetable", "root_vegetable"], "raw": "```json\n{\n  \"remaining\": [\"fish\", \"mushroom\", \"leafy_vegetable\", \"root_vegetable\"]\n}\n```"}
+{"image": "/home/user/qwen/datasets/indi_image/images/after/img22_230421_42_after__3.jpg", "remaining": ["grain"], "raw": "```json\n{\n  \"remaining\": [\"grain\"]\n}\n```"}
+{"image": "/home/user/qwen/datasets/indi_image/images/after/img22_230421_42_after__4.jpg", "remaining": ["dairy"], "raw": "```json\n{\n  \"remaining\": [\"dairy\"]\n}\n```"}
+{"image": "/home/user/qwen/datasets/indi_image/images/after/img23_230421_44_after.jpg", "remaining": [], "raw": "```json\n{\n  \"remaining\": []\n}\n```"}
+{"image": "/home/user/qwen/datasets/indi_image/images/after/img23_230421_44_after__1.jpg", "remaining": [], "raw": "```json\n{\n  \"remaining\": []\n}\n```"}
+{"image": "/home/user/qwen/datasets/indi_image/images/after/img23_230421_44_after__2.jpg", "remaining": ["fish", "fruit_vegetable"], "raw": "```json\n{\n  \"remaining\": [\"fish\", \"fruit_vegetable\"]\n}\n```"}
+{"image": "/home/user/qwen/datasets/indi_image/images/after/img23_230421_44_after__3.jpg", "remaining": ["processed_fish"], "raw": "```json\n{\n  \"remaining\": [\"processed_fish\"]\n}\n```"}
+{"image": "/home/user/qwen/datasets/indi_image/images/after/img23_230421_44_after__4.jpg", "remaining": ["grain"], "raw": "```json\n{\n  \"remaining\": [\"grain\"]\n}\n```"}
+{"image": "/home/user/qwen/datasets/indi_image/images/after/img24_230421_46_after.jpg", "remaining": ["leafy_vegetable"], "raw": "```json\n{\n  \"remaining\": [\"leafy_vegetable\"]\n}\n```"}
+{"image": "/home/user/qwen/datasets/indi_image/images/after/img24_230421_46_after__1.jpg", "remaining": ["noodle"], "raw": "```json\n{\n  \"remaining\": [\"noodle\"]\n}\n```"}
+{"image": "/home/user/qwen/datasets/indi_image/images/after/img24_230421_46_after__2.jpg", "remaining": [], "raw": "```json\n{\n  \"remaining\": []\n}\n```"}
+{"image": "/home/user/qwen/datasets/indi_image/images/after/img24_230421_46_after__3.jpg", "remaining": ["grain"], "raw": "```json\n{\n  \"remaining\": [\"grain\"]\n}\n```"}
+{"image": "/home/user/qwen/datasets/indi_image/images/after/img24_230421_46_after__4.jpg", "remaining": ["processed_fish", "processed_vegetable"], "raw": "```json\n{\n  \"remaining\": [\"processed_fish\", \"processed_vegetable\"]\n}\n```"}
+{"image": "/home/user/qwen/datasets/indi_image/images/after/img25_230421_48_after.jpg", "remaining": ["fruit"], "raw": "```json\n{\n  \"remaining\": [\"fruit\"]\n}\n```"}
+{"image": "/home/user/qwen/datasets/indi_image/images/after/img25_230421_48_after__1.jpg", "remaining": ["grain"], "raw": "```json\n{\n  \"remaining\": [\"grain\"]\n}\n```"}
+{"image": "/home/user/qwen/datasets/indi_image/images/after/img25_230421_48_after__2.jpg", "remaining": ["root_vegetable", "stem_vegetable"], "raw": "```json\n{\n  \"remaining\": [\"root_vegetable\", \"stem_vegetable\"]\n}\n```"}
+{"image": "/home/user/qwen/datasets/indi_image/images/after/img25_230421_48_after__3.jpg", "remaining": [], "raw": "```json\n{\n  \"remaining\": []\n}\n```"}
+{"image": "/home/user/qwen/datasets/indi_image/images/after/img25_230421_48_after__4.jpg", "remaining": ["fruit"], "raw": "```json\n{\n  \"remaining\": [\"fruit\"]\n}\n```"}
+{"image": "/home/user/qwen/datasets/indi_image/images/after/img26_230421_50_after.jpg", "remaining": ["meat", "root_vegetable", "leafy_vegetable"], "raw": "```json\n{\n  \"remaining\": [\n    \"meat\",\n    \"root_vegetable\",\n    \"leafy_vegetable\"\n  ]\n}\n"}
+{"image": "/home/user/qwen/datasets/indi_image/images/after/img26_230421_50_after__1.jpg", "remaining": ["fruit"], "raw": "```json\n{\n  \"remaining\": [\"fruit\"]\n}\n```"}
+{"image": "/home/user/qwen/datasets/indi_image/images/after/img26_230421_50_after__2.jpg", "remaining": ["leafy_vegetable"], "raw": "```json\n{\n  \"remaining\": [\"leafy_vegetable\"]\n}\n```"}
+{"image": "/home/user/qwen/datasets/indi_image/images/after/img26_230421_50_after__3.jpg", "remaining": ["grain"], "raw": "```json\n{\n  \"remaining\": [\"grain\"]\n}\n```"}
+{"image": "/home/user/qwen/datasets/indi_image/images/after/img26_230421_50_after__4.jpg", "remaining": [], "raw": "```json\n{\n  \"remaining\": []\n}\n```"}
+{"image": "/home/user/qwen/datasets/indi_image/images/after/img27_230421_52_after.jpg", "remaining": ["noodle", "meat", "stem_vegetable", "fruit_vegetable"], "raw": "```json\n{\n  \"remaining\": [\"noodle\", \"meat\", \"stem_vegetable\", \"fruit_vegetable\"]\n}\n```"}
+{"image": "/home/user/qwen/datasets/indi_image/images/after/img27_230421_52_after__1.jpg", "remaining": ["egg", "noodle"], "raw": "```json\n{\n  \"remaining\": [\"egg\", \"noodle\"]\n}\n```"}
+{"image": "/home/user/qwen/datasets/indi_image/images/after/img27_230421_52_after__2.jpg", "remaining": ["noodle", "seaweed"], "raw": "```json\n{\n  \"remaining\": [\"noodle\", \"seaweed\"]\n}\n```"}
+{"image": "/home/user/qwen/datasets/indi_image/images/after/img27_230421_52_after__3.jpg", "remaining": ["grain"], "raw": "```json\n{\n  \"remaining\": [\"grain\"]\n}\n```"}
+{"image": "/home/user/qwen/datasets/indi_image/images/after/img28_230421_54_after.jpg", "remaining": ["stem_vegetable"], "raw": "```json\n{\n  \"remaining\": [\"stem_vegetable\"]\n}\n```"}
+{"image": "/home/user/qwen/datasets/indi_image/images/after/img28_230421_54_after__1.jpg", "remaining": [], "raw": "```json\n{\n  \"remaining\": []\n}\n```"}
+{"image": "/home/user/qwen/datasets/indi_image/images/after/img28_230421_54_after__2.jpg", "remaining": ["fruit"], "raw": "```json\n{\n  \"remaining\": [\"fruit\"]\n}\n```"}
+{"image": "/home/user/qwen/datasets/indi_image/images/after/img28_230421_54_after__3.jpg", "remaining": ["egg", "noodle", "meat", "sprout_vegetable"], "raw": "```json\n{\n  \"remaining\": [\"egg\", \"noodle\", \"meat\", \"sprout_vegetable\"]\n}\n```"}
+{"image": "/home/user/qwen/datasets/indi_image/images/after/img28_230421_54_after__4.jpg", "remaining": ["grain"], "raw": "```json\n{\n  \"remaining\": [\"grain\"]\n}\n```"}
+{"image": "/home/user/qwen/datasets/indi_image/images/after/img29_230421_56_after.jpg", "remaining": ["noodle"], "raw": "```json\n{\n  \"remaining\": [\"noodle\"]\n}\n```"}
+{"image": "/home/user/qwen/datasets/indi_image/images/after/img29_230421_56_after__1.jpg", "remaining": ["egg", "grain", "processed_vegetable"], "raw": "```json\n{\n  \"remaining\": [\"egg\", \"grain\", \"processed_vegetable\"]\n}\n```"}
+{"image": "/home/user/qwen/datasets/indi_image/images/after/img29_230421_56_after__2.jpg", "remaining": ["noodle", "stem_vegetable"], "raw": "```json\n{\n  \"remaining\": [\"noodle\", \"stem_vegetable\"]\n}\n```"}
+{"image": "/home/user/qwen/datasets/indi_image/images/after/img2_230421_2_after.jpg", "remaining": ["stem_vegetable"], "raw": "```json\n{\n  \"remaining\": [\"stem_vegetable\"]\n}\n```"}
+{"image": "/home/user/qwen/datasets/indi_image/images/after/img2_230421_2_after__1.jpg", "remaining": ["grain"], "raw": "```json\n{\n  \"remaining\": [\"grain\"]\n}\n```"}
+{"image": "/home/user/qwen/datasets/indi_image/images/after/img2_230421_2_after__2.jpg", "remaining": [], "raw": "```json\n{\n  \"remaining\": []\n}\n```"}
+{"image": "/home/user/qwen/datasets/indi_image/images/after/img2_230421_2_after__3.jpg", "remaining": ["noodle", "pulses"], "raw": "```json\n{\n  \"remaining\": [\"noodle\", \"pulses\"]\n}\n```"}
+{"image": "/home/user/qwen/datasets/indi_image/images/after/img2_230421_2_after__4.jpg", "remaining": ["fruit_vegetable", "potato", "processed_vegetable"], "raw": "```json\n{\n  \"remaining\": [\"fruit_vegetable\", \"potato\", \"processed_vegetable\"]\n}\n```"}
+{"image": "/home/user/qwen/datasets/indi_image/images/after/img30_230421_58_after.jpg", "remaining": ["noodle", "potato", "meat"], "raw": "```json\n{\n  \"remaining\": [\"noodle\", \"potato\", \"meat\"]\n}\n```"}
+{"image": "/home/user/qwen/datasets/indi_image/images/after/img30_230421_58_after__1.jpg", "remaining": ["leafy_vegetable", "processed_vegetable"], "raw": "```json\n{\n  \"remaining\": [\"leafy_vegetable\", \"processed_vegetable\"]\n}\n```"}
+{"image": "/home/user/qwen/datasets/indi_image/images/after/img30_230421_58_after__2.jpg", "remaining": ["egg", "leafy_vegetable", "mushroom"], "raw": "```json\n{\n  \"remaining\": [\"egg\", \"leafy_vegetable\", \"mushroom\"]\n}\n```"}
+{"image": "/home/user/qwen/datasets/indi_image/images/after/img30_230421_58_after__3.jpg", "remaining": ["grain"], "raw": "```json\n{\n  \"remaining\": [\"grain\"]\n}\n```"}
+{"image": "/home/user/qwen/datasets/indi_image/images/after/img31_230421_60_after.jpg", "remaining": ["root_vegetable", "processed_vegetable"], "raw": "```json\n{\n  \"remaining\": [\"root_vegetable\", \"processed_vegetable\"]\n}\n```"}
+{"image": "/home/user/qwen/datasets/indi_image/images/after/img31_230421_60_after__1.jpg", "remaining": [], "raw": "```json\n{\n  \"remaining\": []\n}\n```"}
+{"image": "/home/user/qwen/datasets/indi_image/images/after/img31_230421_60_after__2.jpg", "remaining": ["noodle", "processed_vegetable"], "raw": "```json\n{\n  \"remaining\": [\"noodle\", \"processed_vegetable\"]\n}\n```"}
+{"image": "/home/user/qwen/datasets/indi_image/images/after/img31_230421_60_after__3.jpg", "remaining": ["grain"], "raw": "```json\n{\n  \"remaining\": [\"grain\"]\n}\n```"}
+{"image": "/home/user/qwen/datasets/indi_image/images/after/img31_230421_60_after__4.jpg", "remaining": ["egg", "mushroom", "noodle", "fruit_vegetable"], "raw": "```json\n{\n  \"remaining\": [\"egg\", \"mushroom\", \"noodle\", \"fruit_vegetable\"]\n}\n```"}
+{"image": "/home/user/qwen/datasets/indi_image/images/after/img32_230421_62_after.jpg", "remaining": [], "raw": "```json\n{\n  \"remaining\": [\"egg\", \"leafy_vegetable\", \"mushroom\", \"noodle\", \"root_vegetable"}
+{"image": "/home/user/qwen/datasets/indi_image/images/after/img32_230421_62_after__1.jpg", "remaining": ["processed_fruit"], "raw": "```json\n{\n  \"remaining\": [\"processed_fruit\"]\n}\n```"}
+{"image": "/home/user/qwen/datasets/indi_image/images/after/img32_230421_62_after__2.jpg", "remaining": ["grain"], "raw": "```json\n{\n  \"remaining\": [\"grain\"]\n}\n```"}
+{"image": "/home/user/qwen/datasets/indi_image/images/after/img32_230421_62_after__3.jpg", "remaining": ["potato", "seaweed"], "raw": "```json\n{\n  \"remaining\": [\"potato\", \"seaweed\"]\n}\n```"}
+{"image": "/home/user/qwen/datasets/indi_image/images/after/img32_230421_62_after__4.jpg", "remaining": [], "raw": "```json\n{\n  \"remaining\": []\n}\n```"}
+{"image": "/home/user/qwen/datasets/indi_image/images/after/img33_230421_64_after.jpg", "remaining": ["potato", "meat", "noodle", "stem_vegetable"], "raw": "```json\n{\n  \"remaining\": [\"potato\", \"meat\", \"noodle\", \"stem_vegetable\"]\n}\n```"}
+{"image": "/home/user/qwen/datasets/indi_image/images/after/img33_230421_64_after__1.jpg", "remaining": ["root_vegetable"], "raw": "```json\n{\n  \"remaining\": [\"root_vegetable\"]\n}\n```"}
+{"image": "/home/user/qwen/datasets/indi_image/images/after/img33_230421_64_after__2.jpg", "remaining": ["noodle", "potato", "processed_fish"], "raw": "```json\n{\n  \"remaining\": [\"noodle\", \"potato\", \"processed_fish\"]\n}\n```"}
+{"image": "/home/user/qwen/datasets/indi_image/images/after/img33_230421_64_after__3.jpg", "remaining": [], "raw": "```json\n{\n  \"remaining\": []\n}\n```"}
+{"image": "/home/user/qwen/datasets/indi_image/images/after/img34_230421_67_after.jpg", "remaining": ["grain"], "raw": "```json\n{\n  \"remaining\": [\"grain\"]\n}\n```"}
+{"image": "/home/user/qwen/datasets/indi_image/images/after/img34_230421_67_after__1.jpg", "remaining": ["egg"], "raw": "```json\n{\n  \"remaining\": [\"egg\"]\n}\n```"}
+{"image": "/home/user/qwen/datasets/indi_image/images/after/img34_230421_67_after__2.jpg", "remaining": ["soy", "fish", "stem_vegetable"], "raw": "```json\n{\n  \"remaining\": [\"soy\", \"fish\", \"stem_vegetable\"]\n}\n```"}
+{"image": "/home/user/qwen/datasets/indi_image/images/after/img34_230421_67_after__3.jpg", "remaining": ["fruit_vegetable", "meat"], "raw": "```json\n{\n  \"remaining\": [\"fruit_vegetable\", \"meat\"]\n}\n```"}
+{"image": "/home/user/qwen/datasets/indi_image/images/after/img34_230421_67_after__4.jpg", "remaining": ["leafy_vegetable"], "raw": "```json\n{\n  \"remaining\": [\"leafy_vegetable\"]\n}\n```"}
+{"image": "/home/user/qwen/datasets/indi_image/images/after/img35_230421_68_after.jpg", "remaining": [], "raw": "```json\n{\n  \"remaining\": [\"egg\", \"noodle\", \"leafy_vegetable\", \"meat\", \"stem_vegetable\"]\n"}
+{"image": "/home/user/qwen/datasets/indi_image/images/after/img35_230421_68_after__1.jpg", "remaining": ["egg"], "raw": "```json\n{\n  \"remaining\": [\"egg\"]\n}\n```"}
+{"image": "/home/user/qwen/datasets/indi_image/images/after/img35_230421_68_after__2.jpg", "remaining": ["grain"], "raw": "```json\n{\n  \"remaining\": [\"grain\"]\n}\n```"}
+{"image": "/home/user/qwen/datasets/indi_image/images/after/img35_230421_68_after__3.jpg", "remaining": ["processed_fish"], "raw": "```json\n{\n  \"remaining\": [\"processed_fish\"]\n}\n```"}
+{"image": "/home/user/qwen/datasets/indi_image/images/after/img35_230421_68_after__4.jpg", "remaining": ["processed_fish", "processed_vegetable"], "raw": "```json\n{\n  \"remaining\": [\"processed_fish\", \"processed_vegetable\"]\n}\n```"}
+{"image": "/home/user/qwen/datasets/indi_image/images/after/img36_230421_70_after.jpg", "remaining": ["egg", "grain", "mushroom", "leafy_vegetable"], "raw": "```json\n{\n  \"remaining\": [\"egg\", \"grain\", \"mushroom\", \"leafy_vegetable\"]\n}\n```"}
+{"image": "/home/user/qwen/datasets/indi_image/images/after/img36_230421_70_after__1.jpg", "remaining": ["seaweed", "stem_vegetable"], "raw": "```json\n{\n  \"remaining\": [\"seaweed\", \"stem_vegetable\"]\n}\n```"}
+{"image": "/home/user/qwen/datasets/indi_image/images/after/img36_230421_70_after__2.jpg", "remaining": ["leafy_vegetable"], "raw": "```json\n{\n  \"remaining\": [\"leafy_vegetable\"]\n}\n```"}
+{"image": "/home/user/qwen/datasets/indi_image/images/after/img37_230421_72_after.jpg", "remaining": ["fish", "leafy_vegetable"], "raw": "```json\n{\n  \"remaining\": [\"fish\", \"leafy_vegetable\"]\n}\n```"}
+{"image": "/home/user/qwen/datasets/indi_image/images/after/img37_230421_72_after__1.jpg", "remaining": ["potato", "stem_vegetable"], "raw": "```json\n{\n  \"remaining\": [\"potato\", \"stem_vegetable\"]\n}\n```"}
+{"image": "/home/user/qwen/datasets/indi_image/images/after/img37_230421_72_after__2.jpg", "remaining": ["fruit"], "raw": "```json\n{\n  \"remaining\": [\"fruit\"]\n}\n```"}
+{"image": "/home/user/qwen/datasets/indi_image/images/after/img37_230421_72_after__3.jpg", "remaining": ["grain"], "raw": "```json\n{\n  \"remaining\": [\"grain\"]\n}\n```"}
+{"image": "/home/user/qwen/datasets/indi_image/images/after/img37_230421_72_after__4.jpg", "remaining": ["processed_fish", "processed_vegetable"], "raw": "```json\n{\n  \"remaining\": [\"processed_fish\", \"processed_vegetable\"]\n}\n```"}
+{"image": "/home/user/qwen/datasets/indi_image/images/after/img38_230421_75_after.jpg", "remaining": ["fruit", "processed_fish"], "raw": "```json\n{\n  \"remaining\": [\"fruit\", \"processed_fish\"]\n}\n```"}
+{"image": "/home/user/qwen/datasets/indi_image/images/after/img38_230421_75_after__1.jpg", "remaining": [], "raw": "```json\n{\n  \"remaining\": []\n}\n```"}
+{"image": "/home/user/qwen/datasets/indi_image/images/after/img38_230421_75_after__2.jpg", "remaining": ["processed_fruit"], "raw": "```json\n{\n  \"remaining\": [\"processed_fruit\"]\n}\n```"}
+{"image": "/home/user/qwen/datasets/indi_image/images/after/img38_230421_75_after__3.jpg", "remaining": ["fruit_vegetable", "sprout_vegetable"], "raw": "```json\n{\n  \"remaining\": [\"fruit_vegetable\", \"sprout_vegetable\"]\n}\n```"}
+{"image": "/home/user/qwen/datasets/indi_image/images/after/img39_230421_77_after.jpg", "remaining": ["fruit_vegetable", "root_vegetable"], "raw": "```json\n{\n  \"remaining\": [\"fruit_vegetable\", \"root_vegetable\"]\n}\n```"}
+{"image": "/home/user/qwen/datasets/indi_image/images/after/img39_230421_77_after__1.jpg", "remaining": [], "raw": "```json\n{\n  \"remaining\": []\n}\n```"}
+{"image": "/home/user/qwen/datasets/indi_image/images/after/img39_230421_77_after__2.jpg", "remaining": ["grain"], "raw": "```json\n{\n  \"remaining\": [\"grain\"]\n}\n```"}
+{"image": "/home/user/qwen/datasets/indi_image/images/after/img39_230421_77_after__3.jpg", "remaining": ["noodle", "fruit_vegetable", "meat"], "raw": "```json\n{\n  \"remaining\": [\"noodle\", \"fruit_vegetable\", \"meat\"]\n}\n```"}
+{"image": "/home/user/qwen/datasets/indi_image/images/after/img3_230421_4_after.jpg", "remaining": [], "raw": "```json\n{\n  \"remaining\": [\n    \"fruit_vegetable\",\n    \"processed_fish\",\n    \"processed_meat\",\n    \"processed_ve"}
+{"image": "/home/user/qwen/datasets/indi_image/images/after/img3_230421_4_after__1.jpg", "remaining": ["grain"], "raw": "```json\n{\n  \"remaining\": [\"grain\"]\n}\n```"}
+{"image": "/home/user/qwen/datasets/indi_image/images/after/img3_230421_4_after__2.jpg", "remaining": [], "raw": "```json\n{\n  \"remaining\": []\n}\n```"}
+{"image": "/home/user/qwen/datasets/indi_image/images/after/img3_230421_4_after__3.jpg", "remaining": ["processed_fish", "fruit_vegetable"], "raw": "```json\n{\n  \"remaining\": [\"processed_fish\", \"fruit_vegetable\"]\n}\n```"}
+{"image": "/home/user/qwen/datasets/indi_image/images/after/img40_230421_78_after.jpg", "remaining": ["egg", "leafy_vegetable", "processed_fish"], "raw": "```json\n{\n  \"remaining\": [\"egg\", \"leafy_vegetable\", \"processed_fish\"]\n}\n```"}
+{"image": "/home/user/qwen/datasets/indi_image/images/after/img40_230421_78_after__1.jpg", "remaining": [], "raw": "```json\n{\n  \"remaining\": []\n}\n```"}
+{"image": "/home/user/qwen/datasets/indi_image/images/after/img40_230421_78_after__2.jpg", "remaining": ["soy"], "raw": "```json\n{\n  \"remaining\": [\"soy\"]\n}\n```"}
+{"image": "/home/user/qwen/datasets/indi_image/images/after/img40_230421_78_after__3.jpg", "remaining": ["fruit_vegetable"], "raw": "```json\n{\n  \"remaining\": [\"fruit_vegetable\"]\n}\n```"}
+{"image": "/home/user/qwen/datasets/indi_image/images/after/img41_230421_81_after.jpg", "remaining": ["noodle", "meat", "mushroom", "fruit_vegetable"], "raw": "```json\n{\n  \"remaining\": [\"noodle\", \"meat\", \"mushroom\", \"fruit_vegetable\"]\n}\n```"}
+{"image": "/home/user/qwen/datasets/indi_image/images/after/img41_230421_81_after__1.jpg", "remaining": [], "raw": "```json\n{\n  \"remaining\": []\n}\n```"}
+{"image": "/home/user/qwen/datasets/indi_image/images/after/img41_230421_81_after__2.jpg", "remaining": ["root_vegetable"], "raw": "```json\n{\n  \"remaining\": [\"root_vegetable\"]\n}\n```"}
+{"image": "/home/user/qwen/datasets/indi_image/images/after/img41_230421_81_after__3.jpg", "remaining": ["grain"], "raw": "```json\n{\n  \"remaining\": [\"grain\"]\n}\n```"}
+{"image": "/home/user/qwen/datasets/indi_image/images/after/img42_230421_82_after.jpg", "remaining": ["fruit"], "raw": "```json\n{\n  \"remaining\": [\"fruit\"]\n}\n```"}
+{"image": "/home/user/qwen/datasets/indi_image/images/after/img42_230421_82_after__1.jpg", "remaining": ["noodle", "leafy_vegetable", "processed_vegetable", "soy"], "raw": "```json\n{\n  \"remaining\": [\"noodle\", \"leafy_vegetable\", \"processed_vegetable\", \"soy\"]\n}\n```"}
+{"image": "/home/user/qwen/datasets/indi_image/images/after/img42_230421_82_after__2.jpg", "remaining": ["fruit"], "raw": "```json\n{\n  \"remaining\": [\"fruit\"]\n}\n```"}
+{"image": "/home/user/qwen/datasets/indi_image/images/after/img42_230421_82_after__3.jpg", "remaining": ["grain"], "raw": "```json\n{\n  \"remaining\": [\"grain\"]\n}\n```"}
+{"image": "/home/user/qwen/datasets/indi_image/images/after/img42_230421_82_after__4.jpg", "remaining": [], "raw": "```json\n{\n  \"remaining\": [\n    \"leafy_vegetable\",\n    \"mushroom\",\n    \"noodle\",\n    \"root_ve"}
+{"image": "/home/user/qwen/datasets/indi_image/images/after/img43_230421_85_after.jpg", "remaining": ["root_vegetable", "processed_vegetable"], "raw": "```json\n{\n  \"remaining\": [\"root_vegetable\", \"processed_vegetable\"]\n}\n```"}
+{"image": "/home/user/qwen/datasets/indi_image/images/after/img43_230421_85_after__1.jpg", "remaining": ["fruit"], "raw": "```json\n{\n  \"remaining\": [\"fruit\"]\n}\n```"}
+{"image": "/home/user/qwen/datasets/indi_image/images/after/img43_230421_85_after__2.jpg", "remaining": ["stem_vegetable"], "raw": "```json\n{\n  \"remaining\": [\"stem_vegetable\"]\n}\n```"}
+{"image": "/home/user/qwen/datasets/indi_image/images/after/img43_230421_85_after__3.jpg", "remaining": ["noodle", "stem_vegetable"], "raw": "```json\n{\n  \"remaining\": [\"noodle\", \"stem_vegetable\"]\n}\n```"}
+{"image": "/home/user/qwen/datasets/indi_image/images/after/img43_230421_85_after__4.jpg", "remaining": ["grain"], "raw": "```json\n{\n  \"remaining\": [\"grain\"]\n}\n```"}
+{"image": "/home/user/qwen/datasets/indi_image/images/after/img43_230421_85_after__5.jpg", "remaining": ["fruit_vegetable", "root_vegetable"], "raw": "```json\n{\n  \"remaining\": [\"fruit_vegetable\", \"root_vegetable\"]\n}\n```"}
+{"image": "/home/user/qwen/datasets/indi_image/images/after/img44_230421_87_after.jpg", "remaining": [], "raw": "```json\n{\n  \"remaining\": []\n}\n```"}
+{"image": "/home/user/qwen/datasets/indi_image/images/after/img44_230421_87_after__1.jpg", "remaining": ["fish", "fruit_vegetable", "leafy_vegetable"], "raw": "```json\n{\n  \"remaining\": [\"fish\", \"fruit_vegetable\", \"leafy_vegetable\"]\n}\n```"}
+{"image": "/home/user/qwen/datasets/indi_image/images/after/img44_230421_87_after__2.jpg", "remaining": ["fruit_vegetable", "noodle"], "raw": "```json\n{\n  \"remaining\": [\"fruit_vegetable\", \"noodle\"]\n}\n```"}
+{"image": "/home/user/qwen/datasets/indi_image/images/after/img44_230421_87_after__3.jpg", "remaining": ["grain"], "raw": "```json\n{\n  \"remaining\": [\"grain\"]\n}\n```"}
+{"image": "/home/user/qwen/datasets/indi_image/images/after/img44_230421_87_after__4.jpg", "remaining": ["fruit_vegetable", "processed_fruit"], "raw": "```json\n{\n  \"remaining\": [\"fruit_vegetable\", \"processed_fruit\"]\n}\n```"}
+{"image": "/home/user/qwen/datasets/indi_image/images/after/img45_230421_89_after.jpg", "remaining": ["potato", "seaweed"], "raw": "```json\n{\n  \"remaining\": [\"potato\", \"seaweed\"]\n}\n```"}
+{"image": "/home/user/qwen/datasets/indi_image/images/after/img45_230421_89_after__1.jpg", "remaining": ["fruit_vegetable"], "raw": "```json\n{\n  \"remaining\": [\"fruit_vegetable\"]\n}\n```"}
+{"image": "/home/user/qwen/datasets/indi_image/images/after/img45_230421_89_after__2.jpg", "remaining": [], "raw": "```json\n{\n  \"remaining\": [\n    \"dairy\",\n    \"egg\",\n    \"fish\",\n    \"fruit_vegetable\",\n    \"processed"}
+{"image": "/home/user/qwen/datasets/indi_image/images/after/img45_230421_89_after__3.jpg", "remaining": ["grain"], "raw": "```json\n{\n  \"remaining\": [\"grain\"]\n}\n```"}
+{"image": "/home/user/qwen/datasets/indi_image/images/after/img45_230421_89_after__4.jpg", "remaining": [], "raw": "```json\n{\n  \"remaining\": []\n}\n```"}
+{"image": "/home/user/qwen/datasets/indi_image/images/after/img46_230421_91_after.jpg", "remaining": [], "raw": "```json\n{\n  \"remaining\": []\n}\n```"}
+{"image": "/home/user/qwen/datasets/indi_image/images/after/img46_230421_91_after__1.jpg", "remaining": ["processed_fish", "processed_vegetable"], "raw": "```json\n{\n  \"remaining\": [\"processed_fish\", \"processed_vegetable\"]\n}\n```"}
+{"image": "/home/user/qwen/datasets/indi_image/images/after/img46_230421_91_after__2.jpg", "remaining": ["potato", "pulses"], "raw": "```json\n{\n  \"remaining\": [\"potato\", \"pulses\"]\n}\n```"}
+{"image": "/home/user/qwen/datasets/indi_image/images/after/img46_230421_91_after__3.jpg", "remaining": ["processed_fruit"], "raw": "```json\n{\n  \"remaining\": [\"processed_fruit\"]\n}\n```"}
+{"image": "/home/user/qwen/datasets/indi_image/images/after/img46_230421_91_after__4.jpg", "remaining": ["dairy", "fruit"], "raw": "```json\n{\n  \"remaining\": [\"dairy\", \"fruit\"]\n}\n```"}
+{"image": "/home/user/qwen/datasets/indi_image/images/after/img47_230421_93_after.jpg", "remaining": ["fruit_vegetable"], "raw": "```json\n{\n  \"remaining\": [\"fruit_vegetable\"]\n}\n```"}
+{"image": "/home/user/qwen/datasets/indi_image/images/after/img47_230421_93_after__1.jpg", "remaining": ["noodle", "sprout_vegetable"], "raw": "```json\n{\n  \"remaining\": [\"noodle\", \"sprout_vegetable\"]\n}\n```"}
+{"image": "/home/user/qwen/datasets/indi_image/images/after/img47_230421_93_after__2.jpg", "remaining": [], "raw": "```json\n{\n  \"remaining\": [\n    \"meat\",\n    \"fish\",\n    \"fruit_vegetable\",\n    \"leafy_vegetable"}
+{"image": "/home/user/qwen/datasets/indi_image/images/after/img47_230421_93_after__3.jpg", "remaining": ["grain"], "raw": "```json\n{\n  \"remaining\": [\"grain\"]\n}\n```"}
+{"image": "/home/user/qwen/datasets/indi_image/images/after/img48_230421_94_after.jpg", "remaining": ["meat", "processed_fish"], "raw": "```json\n{\n  \"remaining\": [\"meat\", \"processed_fish\"]\n}\n```"}
+{"image": "/home/user/qwen/datasets/indi_image/images/after/img48_230421_94_after__1.jpg", "remaining": ["grain"], "raw": "```json\n{\n  \"remaining\": [\"grain\"]\n}\n```"}
+{"image": "/home/user/qwen/datasets/indi_image/images/after/img48_230421_94_after__2.jpg", "remaining": ["fruit_vegetable"], "raw": "```json\n{\n  \"remaining\": [\"fruit_vegetable\"]\n}\n```"}
+{"image": "/home/user/qwen/datasets/indi_image/images/after/img48_230421_94_after__3.jpg", "remaining": [], "raw": "```json\n{\n  \"remaining\": []\n}\n```"}
+{"image": "/home/user/qwen/datasets/indi_image/images/after/img49_230421_96_after.jpg", "remaining": ["egg"], "raw": "```json\n{\n  \"remaining\": [\"egg\"]\n}\n```"}
+{"image": "/home/user/qwen/datasets/indi_image/images/after/img49_230421_96_after__1.jpg", "remaining": [], "raw": "```json\n{\n  \"remaining\": []\n}\n```"}
+{"image": "/home/user/qwen/datasets/indi_image/images/after/img49_230421_96_after__2.jpg", "remaining": ["leafy_vegetable", "seaweed"], "raw": "```json\n{\n  \"remaining\": [\"leafy_vegetable\", \"seaweed\"]\n}\n```"}
+{"image": "/home/user/qwen/datasets/indi_image/images/after/img49_230421_96_after__3.jpg", "remaining": ["grain"], "raw": "```json\n{\n  \"remaining\": [\"grain\"]\n}\n```"}
+{"image": "/home/user/qwen/datasets/indi_image/images/after/img49_230421_96_after__4.jpg", "remaining": ["egg"], "raw": "```json\n{\n  \"remaining\": [\"egg\"]\n}\n```"}
+{"image": "/home/user/qwen/datasets/indi_image/images/after/img4_230421_6_after.jpg", "remaining": ["grain"], "raw": "```json\n{\n  \"remaining\": [\"grain\"]\n}\n```"}
+{"image": "/home/user/qwen/datasets/indi_image/images/after/img4_230421_6_after__1.jpg", "remaining": ["leafy_vegetable", "mushroom"], "raw": "```json\n{\n  \"remaining\": [\"leafy_vegetable\", \"mushroom\"]\n}\n```"}
+{"image": "/home/user/qwen/datasets/indi_image/images/after/img4_230421_6_after__2.jpg", "remaining": [], "raw": "```json\n{\n  \"remaining\": []\n}\n```"}
+{"image": "/home/user/qwen/datasets/indi_image/images/after/img4_230421_6_after__3.jpg", "remaining": ["egg", "meat", "noodle"], "raw": "```json\n{\n  \"remaining\": [\"egg\", \"meat\", \"noodle\"]\n}\n```"}
+{"image": "/home/user/qwen/datasets/indi_image/images/after/img50_230421_98_after.jpg", "remaining": ["sprout_vegetable"], "raw": "```json\n{\n  \"remaining\": [\"sprout_vegetable\"]\n}\n```"}
+{"image": "/home/user/qwen/datasets/indi_image/images/after/img50_230421_98_after__1.jpg", "remaining": ["noodle"], "raw": "```json\n{\n  \"remaining\": [\"noodle\"]\n}\n```"}
+{"image": "/home/user/qwen/datasets/indi_image/images/after/img50_230421_98_after__2.jpg", "remaining": ["fruit_vegetable", "grain"], "raw": "```json\n{\n  \"remaining\": [\"fruit_vegetable\", \"grain\"]\n}\n```"}
+{"image": "/home/user/qwen/datasets/indi_image/images/after/img50_230421_98_after__3.jpg", "remaining": ["grain"], "raw": "```json\n{\n  \"remaining\": [\"grain\"]\n}\n```"}
+{"image": "/home/user/qwen/datasets/indi_image/images/after/img51_230421_100_after.jpg", "remaining": [], "raw": "```json\n{\n  \"remaining\": []\n}\n```"}
+{"image": "/home/user/qwen/datasets/indi_image/images/after/img51_230421_100_after__1.jpg", "remaining": ["egg"], "raw": "```json\n{\n  \"remaining\": [\"egg\"]\n}\n```"}
+{"image": "/home/user/qwen/datasets/indi_image/images/after/img51_230421_100_after__2.jpg", "remaining": ["potato", "fruit"], "raw": "```json\n{\n  \"remaining\": [\"potato\", \"fruit\"]\n}\n```"}
+{"image": "/home/user/qwen/datasets/indi_image/images/after/img51_230421_100_after__3.jpg", "remaining": ["noodle", "meat", "root_vegetable", "sprout_vegetable"], "raw": "```json\n{\n  \"remaining\": [\"noodle\", \"meat\", \"root_vegetable\", \"sprout_vegetable\"]\n}\n```"}
+{"image": "/home/user/qwen/datasets/indi_image/images/after/img52_230421_103_after.jpg", "remaining": [], "raw": "```json\n{\n  \"remaining\": []\n}\n```"}
+{"image": "/home/user/qwen/datasets/indi_image/images/after/img52_230421_103_after__1.jpg", "remaining": ["sprout_vegetable"], "raw": "```json\n{\n  \"remaining\": [\"sprout_vegetable\"]\n}\n```"}
+{"image": "/home/user/qwen/datasets/indi_image/images/after/img52_230421_103_after__2.jpg", "remaining": ["grain"], "raw": "```json\n{\n  \"remaining\": [\"grain\"]\n}\n```"}
+{"image": "/home/user/qwen/datasets/indi_image/images/after/img52_230421_103_after__3.jpg", "remaining": ["processed_fish", "processed_vegetable"], "raw": "```json\n{\n  \"remaining\": [\"processed_fish\", \"processed_vegetable\"]\n}\n```"}
+{"image": "/home/user/qwen/datasets/indi_image/images/after/img53_230421_105_after.jpg", "remaining": ["dairy"], "raw": "```json\n{\n  \"remaining\": [\"dairy\"]\n}\n```"}
+{"image": "/home/user/qwen/datasets/indi_image/images/after/img53_230421_105_after__1.jpg", "remaining": ["grain", "meat"], "raw": "```json\n{\n  \"remaining\": [\"grain\", \"meat\"]\n}\n```"}
+{"image": "/home/user/qwen/datasets/indi_image/images/after/img53_230421_105_after__2.jpg", "remaining": [], "raw": "```json\n{\n  \"remaining\": []\n}\n```"}
+{"image": "/home/user/qwen/datasets/indi_image/images/after/img53_230421_105_after__3.jpg", "remaining": ["fruit_vegetable"], "raw": "```json\n{\n  \"remaining\": [\"fruit_vegetable\"]\n}\n```"}
+{"image": "/home/user/qwen/datasets/indi_image/images/after/img54_230421_107_after.jpg", "remaining": ["dairy", "potato"], "raw": "```json\n{\n  \"remaining\": [\"dairy\", \"potato\"]\n}\n```"}
+{"image": "/home/user/qwen/datasets/indi_image/images/after/img54_230421_107_after__1.jpg", "remaining": ["stem_vegetable"], "raw": "```json\n{\n  \"remaining\": [\"stem_vegetable\"]\n}\n```"}
+{"image": "/home/user/qwen/datasets/indi_image/images/after/img54_230421_107_after__2.jpg", "remaining": ["leafy_vegetable", "stem_vegetable"], "raw": "```json\n{\n  \"remaining\": [\"leafy_vegetable\", \"stem_vegetable\"]\n}\n```"}
+{"image": "/home/user/qwen/datasets/indi_image/images/after/img54_230421_107_after__3.jpg", "remaining": ["grain"], "raw": "```json\n{\n  \"remaining\": [\"grain\"]\n}\n```"}
+{"image": "/home/user/qwen/datasets/indi_image/images/after/img55_230421_109_after.jpg", "remaining": ["mushroom", "noodle", "processed_fish"], "raw": "```json\n{\n  \"remaining\": [\"mushroom\", \"noodle\", \"processed_fish\"]\n}\n```"}
+{"image": "/home/user/qwen/datasets/indi_image/images/after/img55_230421_109_after__1.jpg", "remaining": ["noodle"], "raw": "```json\n{\n  \"remaining\": [\"noodle\"]\n}\n```"}
+{"image": "/home/user/qwen/datasets/indi_image/images/after/img55_230421_109_after__2.jpg", "remaining": [], "raw": "```json\n{\n  \"remaining\": []\n}\n```"}
+{"image": "/home/user/qwen/datasets/indi_image/images/after/img55_230421_109_after__3.jpg", "remaining": ["grain"], "raw": "```json\n{\n  \"remaining\": [\"grain\"]\n}\n```"}
+{"image": "/home/user/qwen/datasets/indi_image/images/after/img55_230421_109_after__4.jpg", "remaining": ["fish"], "raw": "```json\n{\n  \"remaining\": [\"fish\"]\n}\n```"}
+{"image": "/home/user/qwen/datasets/indi_image/images/after/img56_230421_111_after.jpg", "remaining": ["fruit"], "raw": "```json\n{\n  \"remaining\": [\"fruit\"]\n}\n```"}
+{"image": "/home/user/qwen/datasets/indi_image/images/after/img56_230421_111_after__1.jpg", "remaining": ["egg"], "raw": "```json\n{\n  \"remaining\": [\"egg\"]\n}\n```"}
+{"image": "/home/user/qwen/datasets/indi_image/images/after/img56_230421_111_after__2.jpg", "remaining": ["grain"], "raw": "```json\n{\n  \"remaining\": [\"grain\"]\n}\n```"}
+{"image": "/home/user/qwen/datasets/indi_image/images/after/img57_230421_113_after.jpg", "remaining": ["dairy", "egg", "fruit_vegetable"], "raw": "```json\n{\n  \"remaining\": [\"dairy\", \"egg\", \"fruit_vegetable\"]\n}\n```"}
+{"image": "/home/user/qwen/datasets/indi_image/images/after/img57_230421_113_after__1.jpg", "remaining": ["fish", "fruit_vegetable", "root_vegetable"], "raw": "```json\n{\n  \"remaining\": [\"fish\", \"fruit_vegetable\", \"root_vegetable\"]\n}\n```"}
+{"image": "/home/user/qwen/datasets/indi_image/images/after/img57_230421_113_after__2.jpg", "remaining": [], "raw": "```json\n{\n  \"remaining\": []\n}\n```"}
+{"image": "/home/user/qwen/datasets/indi_image/images/after/img57_230421_113_after__3.jpg", "remaining": ["leafy_vegetable"], "raw": "```json\n{\n  \"remaining\": [\"leafy_vegetable\"]\n}\n```"}
+{"image": "/home/user/qwen/datasets/indi_image/images/after/img58_230421_115_after.jpg", "remaining": ["leafy_vegetable", "processed_vegetable"], "raw": "```json\n{\n  \"remaining\": [\"leafy_vegetable\", \"processed_vegetable\"]\n}\n```"}
+{"image": "/home/user/qwen/datasets/indi_image/images/after/img58_230421_115_after__1.jpg", "remaining": ["dairy"], "raw": "```json\n{\n  \"remaining\": [\"dairy\"]\n}\n```"}
+{"image": "/home/user/qwen/datasets/indi_image/images/after/img58_230421_115_after__2.jpg", "remaining": ["fruit_vegetable"], "raw": "```json\n{\n  \"remaining\": [\"fruit_vegetable\"]\n}\n```"}
+{"image": "/home/user/qwen/datasets/indi_image/images/after/img58_230421_115_after__3.jpg", "remaining": [], "raw": "```json\n{\n  \"remaining\": []\n}\n```"}
+{"image": "/home/user/qwen/datasets/indi_image/images/after/img59_230421_117_after.jpg", "remaining": ["egg"], "raw": "```json\n{\n  \"remaining\": [\"egg\"]\n}\n```"}
+{"image": "/home/user/qwen/datasets/indi_image/images/after/img59_230421_117_after__1.jpg", "remaining": ["grain"], "raw": "```json\n{\n  \"remaining\": [\"grain\"]\n}\n```"}
+{"image": "/home/user/qwen/datasets/indi_image/images/after/img59_230421_117_after__2.jpg", "remaining": ["stem_vegetable"], "raw": "```json\n{\n  \"remaining\": [\"stem_vegetable\"]\n}\n```"}
+{"image": "/home/user/qwen/datasets/indi_image/images/after/img59_230421_117_after__3.jpg", "remaining": ["egg", "fruit_vegetable", "meat"], "raw": "```json\n{\n  \"remaining\": [\"egg\", \"fruit_vegetable\", \"meat\"]\n}\n```"}
+{"image": "/home/user/qwen/datasets/indi_image/images/after/img59_230421_117_after__4.jpg", "remaining": ["processed_fruit"], "raw": "```json\n{\n  \"remaining\": [\"processed_fruit\"]\n}\n```"}
+{"image": "/home/user/qwen/datasets/indi_image/images/after/img5_230421_8_after.jpg", "remaining": ["processed_fish"], "raw": "```json\n{\n  \"remaining\": [\"processed_fish\"]\n}\n```"}
+{"image": "/home/user/qwen/datasets/indi_image/images/after/img5_230421_8_after__1.jpg", "remaining": ["fruit"], "raw": "```json\n{\n  \"remaining\": [\"fruit\"]\n}\n```"}
+{"image": "/home/user/qwen/datasets/indi_image/images/after/img5_230421_8_after__2.jpg", "remaining": ["root_vegetable", "leafy_vegetable"], "raw": "```json\n{\n  \"remaining\": [\"root_vegetable\", \"leafy_vegetable\"]\n}\n```"}
+{"image": "/home/user/qwen/datasets/indi_image/images/after/img5_230421_8_after__3.jpg", "remaining": [], "raw": "```json\n{\n  \"remaining\": []\n}\n```"}
+{"image": "/home/user/qwen/datasets/indi_image/images/after/img5_230421_8_after__4.jpg", "remaining": ["leafy_vegetable", "mushroom"], "raw": "```json\n{\n  \"remaining\": [\"leafy_vegetable\", \"mushroom\"]\n}\n```"}
+{"image": "/home/user/qwen/datasets/indi_image/images/after/img5_230421_8_after__5.jpg", "remaining": ["noodle", "seaweed"], "raw": "```json\n{\n  \"remaining\": [\"noodle\", \"seaweed\"]\n}\n```"}
+{"image": "/home/user/qwen/datasets/indi_image/images/after/img60_230421_119_after.jpg", "remaining": ["mushroom", "soy"], "raw": "```json\n{\n  \"remaining\": [\"mushroom\", \"soy\"]\n}\n```"}
+{"image": "/home/user/qwen/datasets/indi_image/images/after/img60_230421_119_after__1.jpg", "remaining": ["processed_fruit"], "raw": "```json\n{\n  \"remaining\": [\"processed_fruit\"]\n}\n```"}
+{"image": "/home/user/qwen/datasets/indi_image/images/after/img60_230421_119_after__2.jpg", "remaining": [], "raw": "```json\n{\n  \"remaining\": []\n}\n```"}
+{"image": "/home/user/qwen/datasets/indi_image/images/after/img60_230421_119_after__3.jpg", "remaining": ["grain"], "raw": "```json\n{\n  \"remaining\": [\"grain\"]\n}\n```"}
+{"image": "/home/user/qwen/datasets/indi_image/images/after/img60_230421_119_after__4.jpg", "remaining": [], "raw": "```json\n{\n  \"remaining\": []\n}\n```"}
+{"image": "/home/user/qwen/datasets/indi_image/images/after/img61_230421_121_after.jpg", "remaining": ["fruit_vegetable", "noodle"], "raw": "```json\n{\n  \"remaining\": [\"fruit_vegetable\", \"noodle\"]\n}\n```"}
+{"image": "/home/user/qwen/datasets/indi_image/images/after/img61_230421_121_after__1.jpg", "remaining": [], "raw": "```json\n{\"remaining\": []}\n```"}
+{"image": "/home/user/qwen/datasets/indi_image/images/after/img61_230421_121_after__2.jpg", "remaining": ["noodle", "leafy_vegetable", "processed_vegetable"], "raw": "```json\n{\n  \"remaining\": [\"noodle\", \"leafy_vegetable\", \"processed_vegetable\"]\n}\n```"}
+{"image": "/home/user/qwen/datasets/indi_image/images/after/img61_230421_121_after__3.jpg", "remaining": ["grain"], "raw": "```json\n{\n  \"remaining\": [\"grain\"]\n}\n```"}
+{"image": "/home/user/qwen/datasets/indi_image/images/after/img62_230421_123_after.jpg", "remaining": [], "raw": "```json\n{\n  \"remaining\": []\n}\n```"}
+{"image": "/home/user/qwen/datasets/indi_image/images/after/img62_230421_123_after__1.jpg", "remaining": [], "raw": "```json\n{\n  \"remaining\": []\n}\n```"}
+{"image": "/home/user/qwen/datasets/indi_image/images/after/img62_230421_123_after__2.jpg", "remaining": ["grain"], "raw": "```json\n{\n  \"remaining\": [\"grain\"]\n}\n```"}
+{"image": "/home/user/qwen/datasets/indi_image/images/after/img62_230421_123_after__3.jpg", "remaining": [], "raw": "```json\n{\n  \"remaining\": [\"noodle\", \"processed_fish\", \"processed_meat\", \"processed_vegetable\", \"soy\"]\n"}
+{"image": "/home/user/qwen/datasets/indi_image/images/after/img63_230421_125_after.jpg", "remaining": ["egg"], "raw": "```json\n{\n  \"remaining\": [\"egg\"]\n}\n```"}
+{"image": "/home/user/qwen/datasets/indi_image/images/after/img63_230421_125_after__1.jpg", "remaining": ["noodle"], "raw": "```json\n{\n  \"remaining\": [\"noodle\"]\n}\n```"}
+{"image": "/home/user/qwen/datasets/indi_image/images/after/img63_230421_125_after__2.jpg", "remaining": ["grain"], "raw": "```json\n{\n  \"remaining\": [\"grain\"]\n}\n```"}
+{"image": "/home/user/qwen/datasets/indi_image/images/after/img63_230421_125_after__3.jpg", "remaining": ["processed_fish"], "raw": "```json\n{\n  \"remaining\": [\"processed_fish\"]\n}\n```"}
+{"image": "/home/user/qwen/datasets/indi_image/images/after/img63_230421_125_after__4.jpg", "remaining": [], "raw": "```json\n{\n  \"remaining\": [\n    \"leafy_vegetable\",\n    \"mushroom\",\n    \"root_vegetable\",\n    \""}
+{"image": "/home/user/qwen/datasets/indi_image/images/after/img64_230421_127_after.jpg", "remaining": ["fruit_vegetable", "root_vegetable"], "raw": "```json\n{\n  \"remaining\": [\"fruit_vegetable\", \"root_vegetable\"]\n}\n```"}
+{"image": "/home/user/qwen/datasets/indi_image/images/after/img64_230421_127_after__1.jpg", "remaining": ["fruit_vegetable", "leafy_vegetable"], "raw": "```json\n{\n  \"remaining\": [\"fruit_vegetable\", \"leafy_vegetable\"]\n}\n```"}
+{"image": "/home/user/qwen/datasets/indi_image/images/after/img64_230421_127_after__2.jpg", "remaining": [], "raw": "```json\n{\n  \"remaining\": []\n}\n```"}
+{"image": "/home/user/qwen/datasets/indi_image/images/after/img64_230421_127_after__3.jpg", "remaining": ["grain"], "raw": "```json\n{\n  \"remaining\": [\"grain\"]\n}\n```"}
+{"image": "/home/user/qwen/datasets/indi_image/images/after/img65_230421_129_after.jpg", "remaining": ["dairy"], "raw": "```json\n{\n  \"remaining\": [\"dairy\"]\n}\n```"}
+{"image": "/home/user/qwen/datasets/indi_image/images/after/img65_230421_129_after__1.jpg", "remaining": [], "raw": "```json\n{\n  \"remaining\": []\n}\n```"}
+{"image": "/home/user/qwen/datasets/indi_image/images/after/img65_230421_129_after__2.jpg", "remaining": ["processed_fruit"], "raw": "```json\n{\n  \"remaining\": [\"processed_fruit\"]\n}\n```"}
+{"image": "/home/user/qwen/datasets/indi_image/images/after/img65_230421_129_after__3.jpg", "remaining": [], "raw": "```json\n{\n  \"remaining\": []\n}\n```"}
+{"image": "/home/user/qwen/datasets/indi_image/images/after/img66_230421_131_after.jpg", "remaining": ["dairy"], "raw": "```json\n{\n  \"remaining\": [\"dairy\"]\n}\n```"}
+{"image": "/home/user/qwen/datasets/indi_image/images/after/img66_230421_131_after__1.jpg", "remaining": ["dairy"], "raw": "```json\n{\n  \"remaining\": [\"dairy\"]\n}\n```"}
+{"image": "/home/user/qwen/datasets/indi_image/images/after/img66_230421_131_after__2.jpg", "remaining": [], "raw": "```json\n{\n  \"remaining\": []\n}\n```"}
+{"image": "/home/user/qwen/datasets/indi_image/images/after/img66_230421_131_after__3.jpg", "remaining": ["processed_fruit"], "raw": "```json\n{\n  \"remaining\": [\"processed_fruit\"]\n}\n```"}
+{"image": "/home/user/qwen/datasets/indi_image/images/after/img66_230421_131_after__4.jpg", "remaining": [], "raw": "```json\n{\n  \"remaining\": []\n}\n```"}
+{"image": "/home/user/qwen/datasets/indi_image/images/after/img67_230421_133_after.jpg", "remaining": ["grain"], "raw": "```json\n{\n  \"remaining\": [\"grain\"]\n}\n```"}
+{"image": "/home/user/qwen/datasets/indi_image/images/after/img67_230421_133_after__1.jpg", "remaining": [], "raw": "```json\n{\n  \"remaining\": []\n}\n```"}
+{"image": "/home/user/qwen/datasets/indi_image/images/after/img67_230421_133_after__2.jpg", "remaining": [], "raw": "```json\n{\n  \"remaining\": []\n}\n```"}
+{"image": "/home/user/qwen/datasets/indi_image/images/after/img67_230421_133_after__3.jpg", "remaining": ["meat", "root_vegetable", "pulses", "leafy_vegetable"], "raw": "```json\n{\n  \"remaining\": [\"meat\", \"root_vegetable\", \"pulses\", \"leafy_vegetable\"]\n}\n```"}
+{"image": "/home/user/qwen/datasets/indi_image/images/after/img68_230421_135_after.jpg", "remaining": ["fruit_vegetable"], "raw": "```json\n{\n  \"remaining\": [\"fruit_vegetable\"]\n}\n```"}
+{"image": "/home/user/qwen/datasets/indi_image/images/after/img68_230421_135_after__1.jpg", "remaining": ["meat", "mushroom", "noodle"], "raw": "```json\n{\n  \"remaining\": [\"meat\", \"mushroom\", \"noodle\"]\n}\n```"}
+{"image": "/home/user/qwen/datasets/indi_image/images/after/img68_230421_135_after__2.jpg", "remaining": ["processed_fish"], "raw": "```json\n{\n  \"remaining\": [\"processed_fish\"]\n}\n```"}
+{"image": "/home/user/qwen/datasets/indi_image/images/after/img68_230421_135_after__3.jpg", "remaining": ["grain"], "raw": "```json\n{\n  \"remaining\": [\"grain\"]\n}\n```"}
+{"image": "/home/user/qwen/datasets/indi_image/images/after/img69_230421_137_after.jpg", "remaining": ["fruit_vegetable"], "raw": "```json\n{\n  \"remaining\": [\"fruit_vegetable\"]\n}\n```"}
+{"image": "/home/user/qwen/datasets/indi_image/images/after/img69_230421_137_after__1.jpg", "remaining": [], "raw": "```json\n{\n  \"remaining\": []\n}\n```"}
+{"image": "/home/user/qwen/datasets/indi_image/images/after/img69_230421_137_after__2.jpg", "remaining": ["egg", "noodle", "stem_vegetable"], "raw": "```json\n{\n  \"remaining\": [\"egg\", \"noodle\", \"stem_vegetable\"]\n}\n```"}
+{"image": "/home/user/qwen/datasets/indi_image/images/after/img69_230421_137_after__3.jpg", "remaining": ["grain"], "raw": "```json\n{\n  \"remaining\": [\"grain\"]\n}\n```"}
+{"image": "/home/user/qwen/datasets/indi_image/images/after/img6_230421_10_after.jpg", "remaining": ["egg", "noodle", "mushroom"], "raw": "```json\n{\n  \"remaining\": [\"egg\", \"noodle\", \"mushroom\"]\n}\n```"}
+{"image": "/home/user/qwen/datasets/indi_image/images/after/img6_230421_10_after__1.jpg", "remaining": ["stem_vegetable"], "raw": "```json\n{\n  \"remaining\": [\"stem_vegetable\"]\n}\n```"}
+{"image": "/home/user/qwen/datasets/indi_image/images/after/img6_230421_10_after__2.jpg", "remaining": ["leafy_vegetable"], "raw": "```json\n{\n  \"remaining\": [\"leafy_vegetable\"]\n}\n```"}
+{"image": "/home/user/qwen/datasets/indi_image/images/after/img6_230421_10_after__3.jpg", "remaining": ["grain"], "raw": "```json\n{\n  \"remaining\": [\"grain\"]\n}\n```"}
+{"image": "/home/user/qwen/datasets/indi_image/images/after/img6_230421_10_after__4.jpg", "remaining": [], "raw": "```json\n{\n  \"remaining\": []\n}\n```"}
+{"image": "/home/user/qwen/datasets/indi_image/images/after/img70_230421_139_after.jpg", "remaining": ["processed_fish"], "raw": "```json\n{\n  \"remaining\": [\"processed_fish\"]\n}\n```"}
+{"image": "/home/user/qwen/datasets/indi_image/images/after/img70_230421_139_after__1.jpg", "remaining": ["grain"], "raw": "```json\n{\n  \"remaining\": [\"grain\"]\n}\n```"}
+{"image": "/home/user/qwen/datasets/indi_image/images/after/img70_230421_139_after__2.jpg", "remaining": ["dairy"], "raw": "```json\n{\n  \"remaining\": [\"dairy\"]\n}\n```"}
+{"image": "/home/user/qwen/datasets/indi_image/images/after/img70_230421_139_after__3.jpg", "remaining": [], "raw": "```json\n{\n  \"remaining\": []\n}\n```"}
+{"image": "/home/user/qwen/datasets/indi_image/images/after/img71_230421_140_after.jpg", "remaining": [], "raw": "```json\n{\n  \"remaining\": []\n}\n```"}
+{"image": "/home/user/qwen/datasets/indi_image/images/after/img71_230421_140_after__1.jpg", "remaining": ["grain"], "raw": "```json\n{\n  \"remaining\": [\"grain\"]\n}\n```"}
+{"image": "/home/user/qwen/datasets/indi_image/images/after/img71_230421_140_after__2.jpg", "remaining": ["stem_vegetable", "processed_fish"], "raw": "```json\n{\n  \"remaining\": [\"stem_vegetable\", \"processed_fish\"]\n}\n```"}
+{"image": "/home/user/qwen/datasets/indi_image/images/after/img71_230421_140_after__3.jpg", "remaining": ["noodle", "meat"], "raw": "```json\n{\n  \"remaining\": [\"noodle\", \"meat\"]\n}\n```"}
+{"image": "/home/user/qwen/datasets/indi_image/images/after/img7_230421_12_after.jpg", "remaining": [], "raw": "```json\n{\n  \"remaining\": []\n}\n```"}
+{"image": "/home/user/qwen/datasets/indi_image/images/after/img7_230421_12_after__1.jpg", "remaining": ["leafy_vegetable", "root_vegetable"], "raw": "```json\n{\n  \"remaining\": [\"leafy_vegetable\", \"root_vegetable\"]\n}\n```"}
+{"image": "/home/user/qwen/datasets/indi_image/images/after/img7_230421_12_after__2.jpg", "remaining": ["grain"], "raw": "```json\n{\n  \"remaining\": [\"grain\"]\n}\n```"}
+{"image": "/home/user/qwen/datasets/indi_image/images/after/img7_230421_12_after__3.jpg", "remaining": ["fish", "fruit_vegetable", "leafy_vegetable"], "raw": "```json\n{\n  \"remaining\": [\"fish\", \"fruit_vegetable\", \"leafy_vegetable\"]\n}\n```"}
+{"image": "/home/user/qwen/datasets/indi_image/images/after/img8_230421_14_after.jpg", "remaining": ["root_vegetable", "fruit_vegetable"], "raw": "```json\n{\n  \"remaining\": [\"root_vegetable\", \"fruit_vegetable\"]\n}\n```"}
+{"image": "/home/user/qwen/datasets/indi_image/images/after/img8_230421_14_after__1.jpg", "remaining": ["root_vegetable"], "raw": "```json\n{\n  \"remaining\": [\"root_vegetable\"]\n}\n```"}
+{"image": "/home/user/qwen/datasets/indi_image/images/after/img8_230421_14_after__2.jpg", "remaining": ["grain"], "raw": "```json\n{\n  \"remaining\": [\"grain\"]\n}\n```"}
+{"image": "/home/user/qwen/datasets/indi_image/images/after/img8_230421_14_after__3.jpg", "remaining": ["meat", "noodle", "leafy_vegetable"], "raw": "```json\n{\n  \"remaining\": [\"meat\", \"noodle\", \"leafy_vegetable\"]\n}\n```"}
+{"image": "/home/user/qwen/datasets/indi_image/images/after/img9_230421_16_after.jpg", "remaining": [], "raw": "```json\n{\n  \"remaining\": []\n}\n```"}
+{"image": "/home/user/qwen/datasets/indi_image/images/after/img9_230421_16_after__1.jpg", "remaining": [], "raw": "```json\n{\n  \"remaining\": []\n}\n```"}
+{"image": "/home/user/qwen/datasets/indi_image/images/after/img9_230421_16_after__2.jpg", "remaining": ["processed_vegetable"], "raw": "```json\n{\n  \"remaining\": [\"processed_vegetable\"]\n}\n```"}
+{"image": "/home/user/qwen/datasets/indi_image/images/after/img9_230421_16_after__3.jpg", "remaining": [], "raw": "```json\n{\n  \"remaining\": [\n    \"fruit_vegetable\",\n    \"meat\",\n    \"mushroom\",\n    \"root_veget"}

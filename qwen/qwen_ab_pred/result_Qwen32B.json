@@ -1,0 +1,846 @@
+{
+  "settings": {
+    "oov_policy": "ignore",
+    "subclass_source": "/home/user/qwen/qwen_after_only/datasets/indi_image/images/after_img_all_xml/annotations.xml"
+  },
+  "item_leaf_level": {
+    "num_items": 1,
+    "exact_match_acc": 0.0,
+    "mean_jaccard": 0.0,
+    "micro_precision": 0.0,
+    "micro_recall": 0.0,
+    "micro_f1": 0.0,
+    "macro_f1": 0.0,
+    "per_class": {
+      "potato": {
+        "tp": 0,
+        "fp": 1,
+        "fn": 0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "kombu": {
+        "tp": 0,
+        "fp": 1,
+        "fn": 0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      }
+    },
+    "oov_penalty": {
+      "applied": false,
+      "pred_oov_as_FP": 0,
+      "gt_oov_as_FN": 0
+    }
+  },
+  "meal_leaf_level": {
+    "num_items": 71,
+    "exact_match_acc": 0.0,
+    "mean_jaccard": 0.3747925001446128,
+    "micro_precision": 0.48851774530271397,
+    "micro_recall": 0.5806451612903226,
+    "micro_f1": 0.5306122448979591,
+    "macro_f1": 0.3248154893972095,
+    "per_class": {
+      "hijiki": {
+        "tp": 3,
+        "fp": 7,
+        "fn": 0,
+        "precision": 0.3,
+        "recall": 1.0,
+        "f1": 0.4615384615384615
+      },
+      "banana": {
+        "tp": 5,
+        "fp": 1,
+        "fn": 0,
+        "precision": 0.8333333333333334,
+        "recall": 1.0,
+        "f1": 0.9090909090909091
+      },
+      "rice": {
+        "tp": 56,
+        "fp": 1,
+        "fn": 1,
+        "precision": 0.9824561403508771,
+        "recall": 0.9824561403508771,
+        "f1": 0.9824561403508771
+      },
+      "egg": {
+        "tp": 7,
+        "fp": 8,
+        "fn": 2,
+        "precision": 0.4666666666666667,
+        "recall": 0.7777777777777778,
+        "f1": 0.5833333333333334
+      },
+      "carrot": {
+        "tp": 43,
+        "fp": 5,
+        "fn": 4,
+        "precision": 0.8958333333333334,
+        "recall": 0.9148936170212766,
+        "f1": 0.9052631578947369
+      },
+      "komatsuna": {
+        "tp": 1,
+        "fp": 13,
+        "fn": 0,
+        "precision": 0.07142857142857142,
+        "recall": 1.0,
+        "f1": 0.13333333333333333
+      },
+      "green_pea": {
+        "tp": 1,
+        "fp": 6,
+        "fn": 0,
+        "precision": 0.14285714285714285,
+        "recall": 1.0,
+        "f1": 0.25
+      },
+      "aburaage": {
+        "tp": 2,
+        "fp": 32,
+        "fn": 1,
+        "precision": 0.058823529411764705,
+        "recall": 0.6666666666666666,
+        "f1": 0.10810810810810811
+      },
+      "ham": {
+        "tp": 1,
+        "fp": 5,
+        "fn": 0,
+        "precision": 0.16666666666666666,
+        "recall": 1.0,
+        "f1": 0.2857142857142857
+      },
+      "onion": {
+        "tp": 5,
+        "fp": 1,
+        "fn": 16,
+        "precision": 0.8333333333333334,
+        "recall": 0.23809523809523808,
+        "f1": 0.37037037037037035
+      },
+      "burdock": {
+        "tp": 0,
+        "fp": 0,
+        "fn": 5,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "kamaboko": {
+        "tp": 4,
+        "fp": 3,
+        "fn": 2,
+        "precision": 0.5714285714285714,
+        "recall": 0.6666666666666666,
+        "f1": 0.6153846153846153
+      },
+      "spinach": {
+        "tp": 4,
+        "fp": 3,
+        "fn": 12,
+        "precision": 0.5714285714285714,
+        "recall": 0.25,
+        "f1": 0.34782608695652173
+      },
+      "green_onion": {
+        "tp": 7,
+        "fp": 14,
+        "fn": 1,
+        "precision": 0.3333333333333333,
+        "recall": 0.875,
+        "f1": 0.48275862068965514
+      },
+      "noodle": {
+        "tp": 1,
+        "fp": 4,
+        "fn": 1,
+        "precision": 0.2,
+        "recall": 0.5,
+        "f1": 0.28571428571428575
+      },
+      "wakame": {
+        "tp": 1,
+        "fp": 8,
+        "fn": 6,
+        "precision": 0.1111111111111111,
+        "recall": 0.14285714285714285,
+        "f1": 0.125
+      },
+      "green_beans": {
+        "tp": 2,
+        "fp": 8,
+        "fn": 12,
+        "precision": 0.2,
+        "recall": 0.14285714285714285,
+        "f1": 0.16666666666666666
+      },
+      "potato": {
+        "tp": 7,
+        "fp": 1,
+        "fn": 3,
+        "precision": 0.875,
+        "recall": 0.7,
+        "f1": 0.7777777777777777
+      },
+      "radish": {
+        "tp": 2,
+        "fp": 2,
+        "fn": 10,
+        "precision": 0.5,
+        "recall": 0.16666666666666666,
+        "f1": 0.25
+      },
+      "pickles": {
+        "tp": 1,
+        "fp": 1,
+        "fn": 10,
+        "precision": 0.5,
+        "recall": 0.09090909090909091,
+        "f1": 0.15384615384615385
+      },
+      "taro": {
+        "tp": 0,
+        "fp": 0,
+        "fn": 5,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "lotus_root": {
+        "tp": 1,
+        "fp": 3,
+        "fn": 0,
+        "precision": 0.25,
+        "recall": 1.0,
+        "f1": 0.4
+      },
+      "mackerel": {
+        "tp": 2,
+        "fp": 0,
+        "fn": 14,
+        "precision": 1.0,
+        "recall": 0.125,
+        "f1": 0.2222222222222222
+      },
+      "hakusai": {
+        "tp": 6,
+        "fp": 0,
+        "fn": 5,
+        "precision": 1.0,
+        "recall": 0.5454545454545454,
+        "f1": 0.7058823529411764
+      },
+      "green_pepper": {
+        "tp": 6,
+        "fp": 1,
+        "fn": 0,
+        "precision": 0.8571428571428571,
+        "recall": 1.0,
+        "f1": 0.923076923076923
+      },
+      "chicken": {
+        "tp": 2,
+        "fp": 6,
+        "fn": 5,
+        "precision": 0.25,
+        "recall": 0.2857142857142857,
+        "f1": 0.26666666666666666
+      },
+      "maitake": {
+        "tp": 0,
+        "fp": 1,
+        "fn": 3,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "shimeji": {
+        "tp": 1,
+        "fp": 0,
+        "fn": 5,
+        "precision": 1.0,
+        "recall": 0.16666666666666666,
+        "f1": 0.2857142857142857
+      },
+      "broccoli": {
+        "tp": 5,
+        "fp": 0,
+        "fn": 0,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+      },
+      "macaroni": {
+        "tp": 1,
+        "fp": 0,
+        "fn": 3,
+        "precision": 1.0,
+        "recall": 0.25,
+        "f1": 0.4
+      },
+      "cucumber": {
+        "tp": 10,
+        "fp": 5,
+        "fn": 1,
+        "precision": 0.6666666666666666,
+        "recall": 0.9090909090909091,
+        "f1": 0.7692307692307692
+      },
+      "apple": {
+        "tp": 0,
+        "fp": 7,
+        "fn": 0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "tomato": {
+        "tp": 0,
+        "fp": 3,
+        "fn": 0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "tofu": {
+        "tp": 9,
+        "fp": 10,
+        "fn": 1,
+        "precision": 0.47368421052631576,
+        "recall": 0.9,
+        "f1": 0.6206896551724138
+      },
+      "edamame": {
+        "tp": 0,
+        "fp": 7,
+        "fn": 0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "cabbage": {
+        "tp": 4,
+        "fp": 4,
+        "fn": 2,
+        "precision": 0.5,
+        "recall": 0.6666666666666666,
+        "f1": 0.5714285714285715
+      },
+      "hanpen": {
+        "tp": 0,
+        "fp": 5,
+        "fn": 1,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "bacon": {
+        "tp": 0,
+        "fp": 3,
+        "fn": 0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "udon": {
+        "tp": 0,
+        "fp": 2,
+        "fn": 0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "pumpkin": {
+        "tp": 3,
+        "fp": 0,
+        "fn": 1,
+        "precision": 1.0,
+        "recall": 0.75,
+        "f1": 0.8571428571428571
+      },
+      "eggplant": {
+        "tp": 6,
+        "fp": 4,
+        "fn": 1,
+        "precision": 0.6,
+        "recall": 0.8571428571428571,
+        "f1": 0.7058823529411764
+      },
+      "cheese": {
+        "tp": 0,
+        "fp": 0,
+        "fn": 1,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "beef": {
+        "tp": 6,
+        "fp": 2,
+        "fn": 9,
+        "precision": 0.75,
+        "recall": 0.4,
+        "f1": 0.5217391304347827
+      },
+      "yogurt": {
+        "tp": 1,
+        "fp": 2,
+        "fn": 0,
+        "precision": 0.3333333333333333,
+        "recall": 1.0,
+        "f1": 0.5
+      },
+      "asparagus": {
+        "tp": 0,
+        "fp": 2,
+        "fn": 1,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "enoki": {
+        "tp": 0,
+        "fp": 10,
+        "fn": 0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "butterbur": {
+        "tp": 0,
+        "fp": 0,
+        "fn": 8,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "apple_puree": {
+        "tp": 0,
+        "fp": 5,
+        "fn": 0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "koya_tofu": {
+        "tp": 0,
+        "fp": 4,
+        "fn": 0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "shiitake": {
+        "tp": 1,
+        "fp": 2,
+        "fn": 3,
+        "precision": 0.3333333333333333,
+        "recall": 0.25,
+        "f1": 0.28571428571428575
+      },
+      "salmon": {
+        "tp": 1,
+        "fp": 2,
+        "fn": 0,
+        "precision": 0.3333333333333333,
+        "recall": 1.0,
+        "f1": 0.5
+      },
+      "kiwi": {
+        "tp": 2,
+        "fp": 1,
+        "fn": 0,
+        "precision": 0.6666666666666666,
+        "recall": 1.0,
+        "f1": 0.8
+      },
+      "zucchini": {
+        "tp": 0,
+        "fp": 2,
+        "fn": 0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "pork": {
+        "tp": 0,
+        "fp": 9,
+        "fn": 1,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "kaeri_chirimen": {
+        "tp": 0,
+        "fp": 2,
+        "fn": 2,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "bean_sprout": {
+        "tp": 6,
+        "fp": 3,
+        "fn": 3,
+        "precision": 0.6666666666666666,
+        "recall": 0.6666666666666666,
+        "f1": 0.6666666666666666
+      },
+      "gyoza": {
+        "tp": 1,
+        "fp": 1,
+        "fn": 0,
+        "precision": 0.5,
+        "recall": 1.0,
+        "f1": 0.6666666666666666
+      },
+      "okra": {
+        "tp": 2,
+        "fp": 2,
+        "fn": 0,
+        "precision": 0.5,
+        "recall": 1.0,
+        "f1": 0.6666666666666666
+      },
+      "kombu": {
+        "tp": 0,
+        "fp": 3,
+        "fn": 0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "peach": {
+        "tp": 0,
+        "fp": 0,
+        "fn": 1,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "chikuwa": {
+        "tp": 0,
+        "fp": 2,
+        "fn": 2,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "sweet_potato": {
+        "tp": 0,
+        "fp": 2,
+        "fn": 2,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "eryngii": {
+        "tp": 0,
+        "fp": 1,
+        "fn": 0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "croquette": {
+        "tp": 1,
+        "fp": 0,
+        "fn": 0,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+      },
+      "bread": {
+        "tp": 3,
+        "fp": 0,
+        "fn": 1,
+        "precision": 1.0,
+        "recall": 0.75,
+        "f1": 0.8571428571428571
+      },
+      "broad_bean": {
+        "tp": 0,
+        "fp": 1,
+        "fn": 0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "pineapple": {
+        "tp": 0,
+        "fp": 0,
+        "fn": 1,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "horse_mackerel": {
+        "tp": 0,
+        "fp": 1,
+        "fn": 0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "orange": {
+        "tp": 1,
+        "fp": 0,
+        "fn": 0,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0
+      },
+      "shumai": {
+        "tp": 0,
+        "fp": 0,
+        "fn": 1,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "lettuce": {
+        "tp": 0,
+        "fp": 1,
+        "fn": 0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "saury": {
+        "tp": 0,
+        "fp": 1,
+        "fn": 0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      }
+    },
+    "oov_penalty": {
+      "applied": false,
+      "pred_oov_as_FP": 0,
+      "gt_oov_as_FN": 0
+    }
+  },
+  "item_subclass_level": {
+    "num_items": 1,
+    "exact_match_acc": 0.0,
+    "mean_jaccard": 0.0,
+    "micro_precision": 0.0,
+    "micro_recall": 0.0,
+    "micro_f1": 0.0,
+    "macro_f1": 0.0,
+    "per_class": {
+      "seaweed": {
+        "tp": 0,
+        "fp": 1,
+        "fn": 0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "potato": {
+        "tp": 0,
+        "fp": 1,
+        "fn": 0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      }
+    },
+    "oov_penalty": {
+      "applied": false,
+      "pred_oov_as_FP": 0,
+      "gt_oov_as_FN": 0
+    }
+  },
+  "meal_subclass_level": {
+    "num_items": 71,
+    "exact_match_acc": 0.014084507042253521,
+    "mean_jaccard": 0.5333902404324941,
+    "micro_precision": 0.6390243902439025,
+    "micro_recall": 0.7485714285714286,
+    "micro_f1": 0.6894736842105263,
+    "macro_f1": 0.5163194751141914,
+    "per_class": {
+      "root_vegetable": {
+        "tp": 52,
+        "fp": 7,
+        "fn": 5,
+        "precision": 0.8813559322033898,
+        "recall": 0.9122807017543859,
+        "f1": 0.8965517241379309
+      },
+      "leafy_vegetable": {
+        "tp": 22,
+        "fp": 7,
+        "fn": 6,
+        "precision": 0.7586206896551724,
+        "recall": 0.7857142857142857,
+        "f1": 0.7719298245614034
+      },
+      "grain": {
+        "tp": 59,
+        "fp": 1,
+        "fn": 2,
+        "precision": 0.9833333333333333,
+        "recall": 0.9672131147540983,
+        "f1": 0.9752066115702478
+      },
+      "processed_meat": {
+        "tp": 9,
+        "fp": 8,
+        "fn": 3,
+        "precision": 0.5294117647058824,
+        "recall": 0.75,
+        "f1": 0.6206896551724139
+      },
+      "fruit": {
+        "tp": 9,
+        "fp": 8,
+        "fn": 1,
+        "precision": 0.5294117647058824,
+        "recall": 0.9,
+        "f1": 0.6666666666666667
+      },
+      "seaweed": {
+        "tp": 8,
+        "fp": 12,
+        "fn": 2,
+        "precision": 0.4,
+        "recall": 0.8,
+        "f1": 0.5333333333333333
+      },
+      "egg": {
+        "tp": 7,
+        "fp": 8,
+        "fn": 2,
+        "precision": 0.4666666666666667,
+        "recall": 0.7777777777777778,
+        "f1": 0.5833333333333334
+      },
+      "soy": {
+        "tp": 12,
+        "fp": 33,
+        "fn": 1,
+        "precision": 0.26666666666666666,
+        "recall": 0.9230769230769231,
+        "f1": 0.4137931034482759
+      },
+      "pulses": {
+        "tp": 9,
+        "fp": 14,
+        "fn": 6,
+        "precision": 0.391304347826087,
+        "recall": 0.6,
+        "f1": 0.47368421052631576
+      },
+      "noodle": {
+        "tp": 4,
+        "fp": 4,
+        "fn": 2,
+        "precision": 0.5,
+        "recall": 0.6666666666666666,
+        "f1": 0.5714285714285715
+      },
+      "potato": {
+        "tp": 9,
+        "fp": 1,
+        "fn": 8,
+        "precision": 0.9,
+        "recall": 0.5294117647058824,
+        "f1": 0.6666666666666667
+      },
+      "processed_vegetable": {
+        "tp": 1,
+        "fp": 1,
+        "fn": 10,
+        "precision": 0.5,
+        "recall": 0.09090909090909091,
+        "f1": 0.15384615384615385
+      },
+      "fish": {
+        "tp": 6,
+        "fp": 2,
+        "fn": 12,
+        "precision": 0.75,
+        "recall": 0.3333333333333333,
+        "f1": 0.46153846153846156
+      },
+      "mushroom": {
+        "tp": 6,
+        "fp": 10,
+        "fn": 6,
+        "precision": 0.375,
+        "recall": 0.5,
+        "f1": 0.42857142857142855
+      },
+      "fruit_vegetable": {
+        "tp": 25,
+        "fp": 9,
+        "fn": 2,
+        "precision": 0.7352941176470589,
+        "recall": 0.9259259259259259,
+        "f1": 0.819672131147541
+      },
+      "meat": {
+        "tp": 17,
+        "fp": 6,
+        "fn": 6,
+        "precision": 0.7391304347826086,
+        "recall": 0.7391304347826086,
+        "f1": 0.7391304347826085
+      },
+      "processed_fish": {
+        "tp": 0,
+        "fp": 5,
+        "fn": 1,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "dairy": {
+        "tp": 1,
+        "fp": 2,
+        "fn": 1,
+        "precision": 0.3333333333333333,
+        "recall": 0.5,
+        "f1": 0.4
+      },
+      "stem_vegetable": {
+        "tp": 0,
+        "fp": 2,
+        "fn": 9,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "processed_fruit": {
+        "tp": 0,
+        "fp": 5,
+        "fn": 0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "sprout_vegetable": {
+        "tp": 6,
+        "fp": 3,
+        "fn": 3,
+        "precision": 0.6666666666666666,
+        "recall": 0.6666666666666666,
+        "f1": 0.6666666666666666
+      }
+    },
+    "oov_penalty": {
+      "applied": false,
+      "pred_oov_as_FP": 0,
+      "gt_oov_as_FN": 0
+    }
+  }
+}
